@@ -101,7 +101,7 @@ a:hover {
 
 .site-subtitle, 
 .site-title {
-  color: black;
+  color: teal;
   text-align: center;
 }
 
@@ -135,20 +135,20 @@ a:hover {
 .contato h2,
 .portfolio h2 {
   font-family: 'Source Code Pro', cursive;
-  color: whitesmoke;
+  color: teal;
   margin-bottom: 1.5em;
   font-size: 2em;
 }
 
 .sobre p {
-  color: white;
+  color: teal;
   text-indent: 1.4em;
   margin-bottom: 1.4em;
   text-align: justify;
 }
 
 .sobre a {
-  color: white;
+  color: teal;
   text-decoration: underline;
 }
 
@@ -246,7 +246,7 @@ a:hover {
 }
 
 .contato a {
-  color: whitesmoke;
+  color: teal;
   font-size: 4em;
   transition: text-shadow 1s;
 }
